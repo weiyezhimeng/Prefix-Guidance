@@ -2,7 +2,7 @@
 
 This is the official code repository for PG.
 
-## 环境设置
+## Environment Setting
 ```bash
 conda create -n PG python=3.10
 conda activate PG
