@@ -2,7 +2,7 @@
 
 This is the official code repository for [Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2408.08924)
 
-## 环境设置
+## Environment Setting
 ```bash
 conda create -n PG python=3.10
 conda activate PG
