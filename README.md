@@ -1,6 +1,6 @@
 ## Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks
 
-This is the official code repository for PG.
+This is the official code repository for [Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2408.08924)
 
 ## 环境设置
 ```bash
