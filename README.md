@@ -66,7 +66,7 @@ python main.py --model "your model" --path "your model path" --attack_method "GC
 
 ## Roberta Training
  - For roberta training, you need to download the [roberta-base](https://huggingface.co/FacebookAI/roberta-base) model into the `/model_classify` folder and then use ```python train_roberta.py``` for one-click training.
- - The pre-trained roberta model is located in `/model_classify/classify_roberta.bin`.
+ - you can download the [pre-trained roberta model](https://huggingface.co/weiyezhimeng/Bert_PG/tree/main) and locate it in `/model_classify/classify_roberta.bin`. (Due to git lfs bandwidth limitations, we deleted the pre-trained file from the github repository and uploaded it to the huggingface repository)
 
 ## DIC Judge Score
 ```bash
