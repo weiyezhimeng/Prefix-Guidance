@@ -13,8 +13,8 @@ pip install -r requirements.txt
 
 ### Jailbreak Data
 All attack data should be placed in `dataset/malicious_prompt/`, following the data format used by SafeDecoding. The attack data used in this paper comes from third-party datasets and contains potentially harmful content, so it is not included in this repository. Please download the datasets as needed from the following links:
- - [ReNeLLM](https://github.com/NJUNLP/ReNeLLM)
- - [SafeDecoding](https://github.com/uw-nsl/SafeDecoding)
+ - [ReNeLLM](https://drive.google.com/drive/folders/1Iyisp16Il0o3iAeaGtc-xLHwUVsExv7U)
+ - [SafeDecoding](https://huggingface.co/datasets/flydust/SafeDecoding-Attackers)
 
 The data format is as follows, and readers can also construct their own attack datasets based on this format:
  - For black-box attacks like DeepInception, the data format must include the "prompt" key, with its value being the jailbreak prompt.
